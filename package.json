@@ -10,6 +10,7 @@
   "author": "thanhlam",
   "license": "ISC",
   "dependencies": {
+    "dat.gui": "^0.7.9",
     "three": "^0.170.0",
     "vite": "^5.4.10"
   }
